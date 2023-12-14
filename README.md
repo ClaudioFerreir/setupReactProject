@@ -1,4 +1,4 @@
-# Getting Started with Create React App (Eslint and Prettier added)
+# Getting Started with Create React App (ESlint and Prettier added)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
